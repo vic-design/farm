@@ -1,6 +1,6 @@
 <?php
 
-interface AnimalInteface
+interface AnimalInterface
 {
     public function getType(): string;
 

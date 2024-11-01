@@ -4,7 +4,7 @@ class Chicken extends Animal
 {
     public function __construct()
     {           
-        $this->productType = 
+        $this->productType = AnimalsEnum::cases();
     }
     public function getProduct(): int
     {

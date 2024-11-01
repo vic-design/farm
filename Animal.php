@@ -2,8 +2,8 @@
 
 abstract class Animal implements AnimalInterface
 {    
-    private string $productType;
-    private string $id;
+    protected string $productType;
+    protected string $id;
 
     public function __construct(private string $type)
     {

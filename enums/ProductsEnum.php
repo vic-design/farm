@@ -2,6 +2,6 @@
 
 enum ProductEnum: string
 {
-    case EGG = 'CHIKEN';
-    case MILK = 'COW';
+    case EGG = 'Egg';
+    case MILK = 'Milk';
 }

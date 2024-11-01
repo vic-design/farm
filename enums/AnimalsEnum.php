@@ -2,6 +2,6 @@
 
 enum AnimalsEnum: string
 {
-    case CHIKEN = 'Egg';
-    case COW = 'Milk';
+    case CHIKEN = 'Chicken';
+    case COW = 'Cow';
 }
